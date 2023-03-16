@@ -3,7 +3,7 @@
     "scripts": {
         "dev": "vite",
         "build": "vite build",
-        "production": "vite build"
+        "production": "yarn build --mode=development"
     },
     "devDependencies": {
         "axios": "^1.1.2",
